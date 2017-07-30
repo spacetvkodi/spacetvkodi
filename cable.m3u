@@ -57,7 +57,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co
 #EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qspwpv1453168359.png/medium",CW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/319.ts
 
-#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium/medium",DISCOVERY CHANNEL
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/255.ts
 
 #EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium",DISCOVERY SCIENCE
