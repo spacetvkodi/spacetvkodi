@@ -15,179 +15,179 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium",ANIMAL PLANET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/262.ts
 
-#EXTINF:-1,BBC AMERICA
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/rryqyy1477930410.png/medium",BBC AMERICA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1277.ts
 
-#EXTINF:-1,BET
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/usxvry1434468747.png/medium",BET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1175.ts
 
-#EXTINF:-1,BRAVO
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png/medium",BRAVO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/315.ts
 
-#EXTINF:-1,C-SPAN 1
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/vstsrp1434471020.png/medium",C-SPAN 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/388.ts
 
-#EXTINF:-1,C-SPAN 2
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/sqwqqw1434471036.png/medium",C-SPAN 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/387.ts
 
-#EXTINF:-1,C-SPAN 3
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/uurysx1434471056.png/medium",C-SPAN 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/401.ts
 
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1  tvg-logo="/medium",CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/258.ts
 
-#EXTINF:-1,CBS
+#EXTINF:-1  tvg-logo="/medium",CBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/266.ts
 
-#EXTINF:-1,CBS NEWS
+#EXTINF:-1  tvg-logo="/medium",CBS NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/389.ts
 
-#EXTINF:-1,CNBC
+#EXTINF:-1  tvg-logo="/medium",CNBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/349.ts
 
-#EXTINF:-1,CNN
+#EXTINF:-1  tvg-logo="/medium",CNN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/260.ts
 
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1  tvg-logo="/medium",COMEDY CENTRAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/257.ts
 
-#EXTINF:-1,COOKING CHANNEL
+#EXTINF:-1  tvg-logo="/medium",COOKING CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/211.ts
 
-#EXTINF:-1,CW
+#EXTINF:-1  tvg-logo="/medium",CW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/319.ts
 
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1  tvg-logo="/medium",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/255.ts
 
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1  tvg-logo="/medium",DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/206.ts
 
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1  tvg-logo="/medium",DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/347.ts
 
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1  tvg-logo="/medium",DISNEY JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/469.ts
 
-#EXTINF:-1,DISNEY XD
+#EXTINF:-1  tvg-logo="/medium",DISNEY XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/471.ts
 
-#EXTINF:-1,DIY NETWORK
+#EXTINF:-1  tvg-logo="/medium",DIY NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/346.ts
 
-#EXTINF:-1,E!
+#EXTINF:-1  tvg-logo="/medium",E!
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/345.ts
 
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1  tvg-logo="/medium",FOOD NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/195.ts
 
-#EXTINF:-1,FOX
+#EXTINF:-1  tvg-logo="/medium",FOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/318.ts
 
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1  tvg-logo="/medium",FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/252.ts
 
-#EXTINF:-1,FREEFORM
+#EXTINF:-1  tvg-logo="/medium",FREEFORM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/320.ts
 
-#EXTINF:-1,FX
+#EXTINF:-1  tvg-logo="/medium",FX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/324.ts
 
-#EXTINF:-1,FXX
+#EXTINF:-1  tvg-logo="/medium",FXX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/323.ts
 
-#EXTINF:-1,GOLF CHANNEL
+#EXTINF:-1  tvg-logo="/medium",GOLF CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/390.ts
 
-#EXTINF:-1,H2
+#EXTINF:-1  tvg-logo="/medium",H2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/309.ts
 
-#EXTINF:-1,HALLMARK
+#EXTINF:-1  tvg-logo="/medium",HALLMARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/341.ts
 
-#EXTINF:-1,HGTV
+#EXTINF:-1  tvg-logo="/medium",HGTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/302.ts
 
-#EXTINF:-1,HISTORY
+#EXTINF:-1  tvg-logo="/medium",HISTORY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/251.ts
 
-#EXTINF:-1,INVESTIGATION DISCOVERY
+#EXTINF:-1  tvg-logo="/medium",INVESTIGATION DISCOVERY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/339.ts
 
-#EXTINF:-1,LIFETIME
+#EXTINF:-1  tvg-logo="/medium",LIFETIME
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/300.ts
 
-#EXTINF:-1,MSNBC
+#EXTINF:-1  tvg-logo="/medium",MSNBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/337.ts
 
-#EXTINF:-1,MTV
+#EXTINF:-1  tvg-logo="/medium",MTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/158.ts
 
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1  tvg-logo="/medium",NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/157.ts
 
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+#EXTINF:-1  tvg-logo="/medium",NATIONAL GEOGRAPHIC CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/247.ts
 
-#EXTINF:-1,NBC
+#EXTINF:-1  tvg-logo="/medium",NBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/248.ts
 
-#EXTINF:-1,NBCSN
+#EXTINF:-1  tvg-logo="/medium",NBCSN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/149.ts
 
-#EXTINF:-1,NICK
+#EXTINF:-1  tvg-logo="/medium",NICK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/334.ts
 
-#EXTINF:-1,NICK JR
+#EXTINF:-1  tvg-logo="/medium",NICK JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/333.ts
 
-#EXTINF:-1,OWN
+#EXTINF:-1  tvg-logo="/medium",OWN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/311.ts
 
-#EXTINF:-1,PBS
+#EXTINF:-1  tvg-logo="/medium",PBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1739.ts
 
-#EXTINF:-1,QVC 1
+#EXTINF:-1  tvg-logo="/medium",QVC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1206.ts
 
-#EXTINF:-1,QVC 2
+#EXTINF:-1  tvg-logo="/medium",QVC 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1207.ts
 
-#EXTINF:-1,SHOPPING CHANNEL
+#EXTINF:-1  tvg-logo="/medium",SHOPPING CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/306.ts
 
-#EXTINF:-1,SPIKE
+#EXTINF:-1  tvg-logo="/medium",SPIKE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/246.ts
 
-#EXTINF:-1,SYFY
+#EXTINF:-1  tvg-logo="/medium",SYFY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/245.ts
 
-#EXTINF:-1,TBS
+#EXTINF:-1  tvg-logo="/medium",TBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/301.ts
 
-#EXTINF:-1,TLC
+#EXTINF:-1  tvg-logo="/medium",TLC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/119.ts
 
-#EXTINF:-1,TNT
+#EXTINF:-1  tvg-logo="/medium",TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/298.ts
 
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:-1  tvg-logo="/medium",TRAVEL CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/326.ts
 
-#EXTINF:-1,TRU TV
+#EXTINF:-1  tvg-logo="/medium",TRU TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/312.ts
 
-#EXTINF:-1,USA NETWORK
+#EXTINF:-1  tvg-logo="/medium",USA NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/242.ts
 
-#EXTINF:-1,VELOCITY
+#EXTINF:-1  tvg-logo="/medium",VELOCITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/307.ts
 
-#EXTINF:-1,VH1
+#EXTINF:-1  tvg-logo="/medium",VH1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/402.ts
 
-#EXTINF:-1,VICELAND
+#EXTINF:-1  tvg-logo="/medium",VICELAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/477.ts
 
-#EXTINF:-1,THE WEATHER CHANNEL
+#EXTINF:-1  tvg-logo="/medium",THE WEATHER CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/400.ts
