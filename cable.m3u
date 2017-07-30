@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png/medium",A&E
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png",A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/267.ts
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png/medium",ABC
