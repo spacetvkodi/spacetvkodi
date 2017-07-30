@@ -33,46 +33,46 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co
 #EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/uurysx1434471056.png/medium",C-SPAN 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/401.ts
 
-#EXTINF:-1  tvg-logo="/medium",CARTOON NETWORK
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium",CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/258.ts
 
-#EXTINF:-1  tvg-logo="/medium",CBS
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png/medium",CBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/266.ts
 
-#EXTINF:-1  tvg-logo="/medium",CBS NEWS
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/elr35q1494426361.png/medium",CBS NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/389.ts
 
-#EXTINF:-1  tvg-logo="/medium",CNBC
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/ryttsp1433452891.png/medium",CNBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/349.ts
 
-#EXTINF:-1  tvg-logo="/medium",CNN
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/uyswus1433941237.png/medium",CNN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/260.ts
 
-#EXTINF:-1  tvg-logo="/medium",COMEDY CENTRAL
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/wmc6191488830516.png/medium",COMEDY CENTRAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/257.ts
 
-#EXTINF:-1  tvg-logo="/medium",COOKING CHANNEL
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/893p2e1494156845.png/medium",COOKING CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/211.ts
 
-#EXTINF:-1  tvg-logo="/medium",CW
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qspwpv1453168359.png/medium",CW
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/319.ts
 
-#EXTINF:-1  tvg-logo="/medium",DISCOVERY CHANNEL
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium/medium",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/255.ts
 
-#EXTINF:-1  tvg-logo="/medium",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium",DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/206.ts
 
-#EXTINF:-1  tvg-logo="/medium",DISNEY CHANNEL
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium",DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/347.ts
 
-#EXTINF:-1  tvg-logo="/medium",DISNEY JR
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/xpxwrx1471035181.png/medium",DISNEY JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/469.ts
 
-#EXTINF:-1  tvg-logo="/medium",DISNEY XD
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium",DISNEY XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/471.ts
 
-#EXTINF:-1  tvg-logo="/medium",DIY NETWORK
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qqvwrv1434500960.png/medium",DIY NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/346.ts
 
 #EXTINF:-1  tvg-logo="/medium",E!
