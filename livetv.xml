@@ -6,7 +6,7 @@
 <channel>
 <name>ENTERTAINMENT</name>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/6f/2e/b0/6f2eb0f9973d9110f9b94f5d85df2ec0.jpg</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/cable.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/cable.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>SPORTS</name>
 <thumbnail>http://www.sabc.co.za/wps/wcm/connect/1ec8ff0041475696a549ad47c5f82b19/play-sports.png?MOD=AJPERES&CACHEID=1ec8ff0041475696a549ad47c5f82b19</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/sports.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/sports.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -22,7 +22,7 @@
 <channel>
 <name>MOVIE CHANNEL</name>
 <thumbnail>https://image.freepik.com/free-vector/premium-logo-design_1102-210.jpg</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/movie.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/movie.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -30,7 +30,7 @@
 <channel>
 <name>NEWS 12</name>
 <thumbnail>https://static1.squarespace.com/static/5048e660e4b0bd178ab35a57/t/55facae7e4b04160d2f3222b/1442499309684/</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/news.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/news.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -38,7 +38,7 @@
 <channel>
 <name>NFL SUNDAY TICKET</name>
 <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/07/NFL-Sunday-Ticket.jpg</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/nfl.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/nfl.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -46,7 +46,7 @@
 <channel>
 <name>NBA LEAGUE PASS</name>
 <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/nba.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/nba.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -54,7 +54,7 @@
 <channel>
 <name>MLB EXTRA INNING</name>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/6/6f/250px-MLB_Extra_Innings.svg.png/revision/latest?cb=20150904004653</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/mlb.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/mlb.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -62,7 +62,7 @@
 <channel>
 <name>NHL CENTER ICE</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/09/NHL_Center_Ice.svg/1280px-NHL_Center_Ice.svg.pngz</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/nhl.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/nhl.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -70,7 +70,7 @@
 <channel>
 <name>SKY SPORTS</name>
 <thumbnail>http://www.bar6maidstone.co.uk/wp-content/uploads/2015/10/Sky-Sports-Logo.png</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/sky.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/sky.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -78,7 +78,7 @@
 <channel>
 <name>PAC 12 SPORTS</name>
 <thumbnail>http://x.pac-12.com/profiles/pac12/modules/features/pac12_base/images/pac-12-placeholder.jpg</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/pac.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/pac.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -86,7 +86,7 @@
 <channel>
 <name>PAY PER VIEW</name>
 <thumbnail>https://premium.wpmudev.org/wp-content/uploads/2012/03/Pay_per_view.png</thumbnail>
-<externallink>https://github.com/spacetvkodi/spacetvkodi/blob/master/ppv.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/spacetvkodi/spacetvkodi/master/ppv.m3u</externallink>
 <fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
 <info></info>
 </channel>
