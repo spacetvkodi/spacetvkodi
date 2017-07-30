@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,NHL CENTER ICE 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/416.ts
+#EXTINF:-1,NHL CENTER ICE 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/411.ts
+#EXTINF:-1,NHL CENTER ICE 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/410.ts
+#EXTINF:-1,NHL CENTER ICE 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/409.ts
+#EXTINF:-1,NHL CENTER ICE 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/408.ts
+#EXTINF:-1,NHL CENTER ICE 6 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/407.ts
+#EXTINF:-1,NHL CENTER ICE 7 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/406.ts
+#EXTINF:-1,NHL CENTER ICE 8 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/405.ts
+#EXTINF:-1,NHL CENTER ICE 9 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/404.ts
+#EXTINF:-1,NHL CENTER ICE 10 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/415.ts
+#EXTINF:-1,NHL CENTER ICE 11 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/414.ts
+#EXTINF:-1,NHL CENTER ICE 12 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/413.ts
+#EXTINF:-1,NHL CENTER ICE 13 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/412.ts

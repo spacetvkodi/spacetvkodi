@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,NFL SUNDAY TICKET 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/355.ts
+#EXTINF:-1,NFL SUNDAY TICKET 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/363.ts
+#EXTINF:-1,NFL SUNDAY TICKET 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/362.ts
+#EXTINF:-1,NFL SUNDAY TICKET 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/361.ts
+#EXTINF:-1,NFL SUNDAY TICKET 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/360.ts
+#EXTINF:-1,NFL SUNDAY TICKET 6 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/359.ts
+#EXTINF:-1,NFL SUNDAY TICKET 7 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/358.ts
+#EXTINF:-1,NFL SUNDAY TICKET 8 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/357.ts
+#EXTINF:-1,NFL SUNDAY TICKET 9 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/356.ts
+#EXTINF:-1,NFL SUNDAY TICKET 10 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/367.ts
+#EXTINF:-1,NFL SUNDAY TICKET 11 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/366.ts
+#EXTINF:-1,NFL SUNDAY TICKET 12 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/365.ts
+#EXTINF:-1,NFL SUNDAY TICKET 13 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/364.ts
+#EXTINF:-1,NFL RED ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/368.ts

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,NEWS 12 BROOKLYN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/461.ts
+#EXTINF:-1,NEWS 12 CONNECTICUT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/462.ts
+#EXTINF:-1,NEWS 12 NEW JERSEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1176.ts
+#EXTINF:-1,NEWS 12 LONG ISLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/460.ts
+#EXTINF:-1,NEWS 12 THE BRONX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/465.ts
+#EXTINF:-1,NEWS 12 HUDSON VALLEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/463.ts

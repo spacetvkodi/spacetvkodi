@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>LIVE TV</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Zink_TV_Logo.jpg</thumbnail>
+<externallink>http://spacetvkodi.net16.net/file/tv/livetv.xml</externallink>
+<fanart>http://spacetvkodi.net16.net/picture/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

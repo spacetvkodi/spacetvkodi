@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,NBA LEAGUE PASS LIVE 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/380.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/373.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/372.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/371.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/370.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 6 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/369.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 7 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/379.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 8 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/378.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 9 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/377.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 10 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/376.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 14 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/375.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 15 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/374.ts

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,PAC 12 ARIZONA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC 12 BAY AREA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/398.ts
+#EXTINF:-1,PAC 12 LOS ANGELES  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1,PAC 12 MOUNTAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/396.ts
+#EXTINF:-1,PAC 12 NATIONAL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/395.ts
+#EXTINF:-1,PAC 12 OREGON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/394.ts
+#EXTINF:-1,PAC 12 WASHINGTON 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/393.ts

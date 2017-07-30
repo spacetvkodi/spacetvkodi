@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,SKY SPORTS ACTION 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/596.ts
+#EXTINF:-1,SKY SPORTS ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/590.ts
+#EXTINF:-1,SKY SPORTS ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/589.ts
+#EXTINF:-1,SKY SPORTS ARENA 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1924.ts
+#EXTINF:-1,SKY SPORTS CRICKET 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/597.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/592.ts
+#EXTINF:-1,SKY SPORTS CRICKET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/591.ts
+#EXTINF:-1,SKY SPORTS F1 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/595.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/585.ts
+#EXTINF:-1,SKY SPORTS F1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/584.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1923.ts
+#EXTINF:-1,SKY SPORTS GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/588.ts
+#EXTINF:-1,SKY SPORTS GOLF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/587.ts
+#EXTINF:-1,Sky Sports MAIN EVENT 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/598.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/594.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/593.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/586.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1280.ts
+#EXTINF:-1,SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/583.ts
