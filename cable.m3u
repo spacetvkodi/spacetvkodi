@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png",A&E
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png/medium",A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/267.ts
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png/medium",ABC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/263.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png",ABC NEWS
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png/medium",ABC NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/108.ts
 
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png/medium",AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/562.ts
 
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium",ANIMAL PLANET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/262.ts
 
 #EXTINF:-1,BBC AMERICA
