@@ -147,7 +147,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co
 #EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/xvuysy1456746421.png/medium",PBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1739.ts
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/Yt9fYDv05H0p12Y-DgZXF85KVlEBwrQ0MmELx34WXZhrHZxs08Ia7KsthzkDzz7RIQ=w300",QVC 1
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qwrryp1434029819.png/medium",QVC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1206.ts
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/Yt9fYDv05H0p12Y-DgZXF85KVlEBwrQ0MmELx34WXZhrHZxs08Ia7KsthzkDzz7RIQ=w300",QVC 2
