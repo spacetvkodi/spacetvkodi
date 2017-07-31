@@ -105,89 +105,89 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co
 #EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/tyvvss1433452956.png/medium",HALLMARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/341.ts
 
-#EXTINF:-1  tvg-logo="/medium",HGTV
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/yusqqu1444656884.png/medium",HGTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/302.ts
 
-#EXTINF:-1  tvg-logo="/medium",HISTORY
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium",HISTORY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/251.ts
 
-#EXTINF:-1  tvg-logo="/medium",INVESTIGATION DISCOVERY
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wwutyt1433964930.png/medium",INVESTIGATION DISCOVERY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/339.ts
 
-#EXTINF:-1  tvg-logo="/medium",LIFETIME
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png/medium",LIFETIME
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/300.ts
 
-#EXTINF:-1  tvg-logo="/medium",MSNBC
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/trytur1433451903.png/medium",MSNBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/337.ts
 
-#EXTINF:-1  tvg-logo="/medium",MTV
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium",MTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/158.ts
 
-#EXTINF:-1  tvg-logo="/medium",NAT GEO WILD
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png/medium",NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/157.ts
 
-#EXTINF:-1  tvg-logo="/medium",NATIONAL GEOGRAPHIC CHANNEL
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/spurwy1433945957.png/medium",NATIONAL GEOGRAPHIC CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/247.ts
 
-#EXTINF:-1  tvg-logo="/medium",NBC
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png/medium",NBC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/248.ts
 
-#EXTINF:-1  tvg-logo="/medium",NBCSN
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png/medium",NBCSN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/149.ts
 
-#EXTINF:-1  tvg-logo="/medium",NICK
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium",NICK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/334.ts
 
-#EXTINF:-1  tvg-logo="/medium",NICK JR
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/ttwuwy1444920780.png/medium",NICK JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/333.ts
 
-#EXTINF:-1  tvg-logo="/medium",OWN
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/upyqux1434563981.png/medium",OWN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/311.ts
 
-#EXTINF:-1  tvg-logo="/medium",PBS
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/xvuysy1456746421.png/medium",PBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1739.ts
 
-#EXTINF:-1  tvg-logo="/medium",QVC 1
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/Yt9fYDv05H0p12Y-DgZXF85KVlEBwrQ0MmELx34WXZhrHZxs08Ia7KsthzkDzz7RIQ=w300",QVC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1206.ts
 
-#EXTINF:-1  tvg-logo="/medium",QVC 2
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/Yt9fYDv05H0p12Y-DgZXF85KVlEBwrQ0MmELx34WXZhrHZxs08Ia7KsthzkDzz7RIQ=w300/",QVC 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/1207.ts
 
-#EXTINF:-1  tvg-logo="/medium",SHOPPING CHANNEL
+#EXTINF:-1  tvg-logo="http://www.rogers.com/cms/rogers/images/en/more/rogers-shopping-channel-logo.png",SHOPPING CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/306.ts
 
-#EXTINF:-1  tvg-logo="/medium",SPIKE
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png/medium",SPIKE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/246.ts
 
-#EXTINF:-1  tvg-logo="/medium",SYFY
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/qrvqqy1480459300.png/medium",SYFY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/245.ts
 
-#EXTINF:-1  tvg-logo="/medium",TBS
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium",TBS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/301.ts
 
-#EXTINF:-1  tvg-logo="/medium",TLC
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium",TLC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/119.ts
 
-#EXTINF:-1  tvg-logo="/medium",TNT
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qsrwqq1469457085.png/medium",TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/298.ts
 
-#EXTINF:-1  tvg-logo="/medium",TRAVEL CHANNEL
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png/medium",TRAVEL CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/326.ts
 
-#EXTINF:-1  tvg-logo="/medium",TRU TV
+#EXTINF:-1  tvg-logo="http://seriestv.biz/wp-content/uploads/2016/11/tru-tv-channel-logo.png",TRU TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/312.ts
 
-#EXTINF:-1  tvg-logo="/medium",USA NETWORK
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png/medium",USA NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/242.ts
 
-#EXTINF:-1  tvg-logo="/medium",VELOCITY
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/ysysuu1434506168.png/medium",VELOCITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/307.ts
 
-#EXTINF:-1  tvg-logo="/medium",VH1
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium",VH1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/402.ts
 
-#EXTINF:-1  tvg-logo="/medium",VICELAND
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/1j08xf1499082946.png/medium",VICELAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/477.ts
 
-#EXTINF:-1  tvg-logo="/medium",THE WEATHER CHANNEL
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/rrtupr1434506063.png/medium",THE WEATHER CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/400.ts
