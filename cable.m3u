@@ -75,34 +75,34 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co
 #EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/qqvwrv1434500960.png/medium",DIY NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/346.ts
 
-#EXTINF:-1  tvg-logo="/medium",E!
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/xxxsrs1477989913.png/medium",E!
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/345.ts
 
-#EXTINF:-1  tvg-logo="/medium",FOOD NETWORK
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png/medium",FOOD NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/195.ts
 
-#EXTINF:-1  tvg-logo="/medium",FOX
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png/medium",FOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/318.ts
 
-#EXTINF:-1  tvg-logo="/medium",FOX NEWS
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png/medium",FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/252.ts
 
-#EXTINF:-1  tvg-logo="/medium",FREEFORM
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/sswvst1466834795.png/medium",FREEFORM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/320.ts
 
-#EXTINF:-1  tvg-logo="/medium",FX
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png/medium",FX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/324.ts
 
-#EXTINF:-1  tvg-logo="/medium",FXX
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png/medium",FXX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/323.ts
 
-#EXTINF:-1  tvg-logo="/medium",GOLF CHANNEL
+#EXTINF:-1  tvg-logo="http://www.thelogodb.com/images/media/logo/qxxpxr1476105545.png/medium",GOLF CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/390.ts
 
-#EXTINF:-1  tvg-logo="/medium",H2
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png/medium",H2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/309.ts
 
-#EXTINF:-1  tvg-logo="/medium",HALLMARK
+#EXTINF:-1  tvg-logo="https://www.thelogodb.com/images/media/logo/tyvvss1433452956.png/medium",HALLMARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2095/live/avery01/avery01/341.ts
 
 #EXTINF:-1  tvg-logo="/medium",HGTV
